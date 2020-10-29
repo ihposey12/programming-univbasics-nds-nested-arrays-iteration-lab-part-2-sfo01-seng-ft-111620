@@ -14,6 +14,5 @@ def find_min_in_nested_arrays(src)
   outer_results << low_daily_temps
   rows += 1
 end
-end
-
 outer_results
+end
