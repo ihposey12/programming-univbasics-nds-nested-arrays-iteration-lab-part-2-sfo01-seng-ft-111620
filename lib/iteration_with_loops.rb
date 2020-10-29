@@ -15,4 +15,4 @@ def find_min_in_nested_arrays(src)
   rows += 1
 end
 
-outer_results
+return outer_results
